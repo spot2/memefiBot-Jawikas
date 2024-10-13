@@ -1,0 +1,1 @@
+query_id=AAHr0U8XAwAAAOvRTxeUgvsD&user=%7B%22id%22%3A6833557995%2C%22first_name%22%3A%22Ahmad%20hidayat%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Ahmdhidayatt%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1728423345&hash=e82c8ccccff993eb00467d819c301ed6e683b7d25a5b7dd2750c6c5250bf9f69

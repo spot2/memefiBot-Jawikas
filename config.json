@@ -1,0 +1,12 @@
+{
+    "energy_booster": true,
+    "turbo_booster": true,
+    "auto_claim_combo": true,
+    "crazy_damage": true,
+    "attempt_hit_boss": 10,
+    "min_damage": 2000000,
+    "max_damage": 50000000,
+
+    "ACCOUNT_DELAY": 5,
+    "LOOP_COUNTDOWN": 30
+}
